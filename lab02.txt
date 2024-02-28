@@ -13,3 +13,4 @@ lab02
 - recepcjonista
 - klient
 7.
+wynajem - usługa hoteliku daje prawo do przebywania w pokoju
