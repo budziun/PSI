@@ -1,0 +1,15 @@
+lab02
+1. cały ośrodek 
+2. zaznaczone na zielono w pliku, hotelik
+3. restauracja, wypozyczalnia sprzętu,...
+4. -> 5.
+- wynajmowanie pokoi przez klientów -> recepcjonista
+- rezerwacja pokoju przez klienta -> receocjonista
+- śniadania dla klientów -> pracownik restauracji
+- sprzątanie pokoi -> pokojówki
+6.
+- pokojówki
+- pracownik restauracji
+- recepcjonista
+- klient
+7.
