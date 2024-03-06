@@ -12,3 +12,13 @@ aktorzy osobowi i nie osobowi w relacji
 przypadek uzycia -> musza byc w srodku, 5-13 funkcjonalnosci 
 
 jak cos zle w sprawozdaniu to mozna poprawic i potem do koncowego projektu dolaczyc
+
+zad 1
+Kto pracuje: dział informatyki w centrali, pracownik biblioteki, szef działu infomartyków,
+specjalisci, osoba uprawniona informatyk
+jakie funkcje: przyjmowanie zgloszen, syponowanie praocwnikami, realizacja napraw awwarii sprzetu komputerowego, sprawdza status zgloszenia
+
+Cel systemu: wsparcie techniczne
+kto bierze udziali i dla kogo to bedzie: pracownik biblioteki, specjalista terenowy, szef dzialu it, informatyk 
+
+frame jako okno pierwsze
