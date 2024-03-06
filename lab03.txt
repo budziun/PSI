@@ -22,3 +22,7 @@ Cel systemu: wsparcie techniczne
 kto bierze udziali i dla kogo to bedzie: pracownik biblioteki, specjalista terenowy, szef dzialu it, informatyk 
 
 frame jako okno pierwsze
+aktorzy ludziki 
+jak wiecej niz 15 dzielimy na 2 lub wiecej 
+jak mniej to nie jest to przypadek uzycia
+nazwa: czasownik + rzeczownik (czasownik tryb rozkazujacy)
