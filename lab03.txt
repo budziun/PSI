@@ -5,8 +5,8 @@ system informatyczny sklada sie z:
 > wymagania niefunkcjonalne - jak szybko ma dzialac serwer, ile ludzi ma obsluzyc -- czy potrzebna jest drukarka, kasa fiskalna, ile stanowsik, jak mocny pc 
 z danych powstaje diagram klas
 
-Funkcja:
-diagram przypadkow uzycia - DPU
+Funkcja/wymagania funkcjonalne:
+diagram przypadkow uzycia - DPU -> wymagania funkcjonalne systmu informatycznego - aktorzy,przypadki uzycia, relacje 
 aktorzy osobowi i nie osobowi w relacji 
 
 przypadek uzycia -> musza byc w srodku, 5-13 funkcjonalnosci 
