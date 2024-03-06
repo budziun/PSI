@@ -26,3 +26,6 @@ aktorzy ludziki
 jak wiecej niz 15 dzielimy na 2 lub wiecej 
 jak mniej to nie jest to przypadek uzycia
 nazwa: czasownik + rzeczownik (czasownik tryb rozkazujacy)
+
+dom: przeczytac rozdzial w ksiazce, na za 2 tygodnie diagram -> poniedzialek 23;59 
+na za tydzien -> sprawdzic w internecie czy sa systemy co robia podobnie do naszego systemu; raport 2-3 interfejsy - dla kogo sa te systemy, po co one sa, jakie maja funkcjonalnosci, jak my oceniamy ten system, ---> wszystko w raporcie  / ze dwa systemy chociaz, opisujemy funkcjonalnosci tego systemu, interfejsy - screeny zrobic ----> pdf teams 
