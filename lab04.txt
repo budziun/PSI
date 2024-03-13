@@ -1,0 +1,10 @@
+lab04 
+dwie relacje miedza soba - przerywana kreska -> nie ciagla!!!
+use case (przypadki uzycia) --> od 5 do 14 krokow [DPU chyba]
+> najpierw wymyslamy aktorow jacy są
+> tworzenie przypadków użycia (czasownik w trybie rozkazujacym + rzeczownik)
+dzielimy w grupy po 7
+aktorzy-relacje extends
+relacje-relacje include
+zad PSI_cw04_UC.pdf
+diagram w programie ---> enterprise architect 
