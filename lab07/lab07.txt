@@ -1,0 +1,3 @@
+diagram analityczny zrobic
+i zaprojektowac interfejsy
+figma.com lub draw.io i dodac bootstrap
